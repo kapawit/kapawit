@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kapawit
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on any React.js project
-- 📫 want to reach me ?  just email me pawitwahib.wrk@gmail.com
+- 📫 Hello Alien 
 
 <!---
 kapawit/kapawit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
